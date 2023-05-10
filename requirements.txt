@@ -1,0 +1,10 @@
+bidict 
+more-itertools 
+numpy 
+pandas 
+simple-parsing
+structlog 
+tensorflow
+typing-extensions 
+jsonconversion
+python-dotenv
